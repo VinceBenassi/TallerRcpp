@@ -1,0 +1,13 @@
+Package: TallerRcpp
+Type: Package
+Title: Funciones_Rcpp
+Version: 0.1.0
+Author: Franco Benassi
+Maintainer: Franco Benassi <benassif03@gmail.com>
+Description: Paquete que implementa funciones de R en Rcpp como wich.min, which.max, cbind, rbind, multiplicacion de matrices, entre otras.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp
+RoxygenNote: 7.2.1
