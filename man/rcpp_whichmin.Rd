@@ -8,6 +8,10 @@ rcpp_whichmin(matriz)
 }
 \arguments{
 \item{A}{será la matriz elegida como ejemplo.}
+
+\item{matriz}{Matriz de ejemplo para la función.}
+
+\item{valores}{Vector de datos que se utilizará para crear la matriz.}
 }
 \value{
 Devolucion de posicion donde se ubica el numero más pequeño dentro de la matriz.

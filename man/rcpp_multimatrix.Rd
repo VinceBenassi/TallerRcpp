@@ -10,6 +10,10 @@ rcpp_multimatrix(matriz, matriz2)
 \item{A}{será la primera matriz elegida como ejemplo.}
 
 \item{B}{la segunda matriz.}
+
+\item{matriz}{Matriz de 2x5 de ejemplo.}
+
+\item{matriz2}{Matriz de 5x4 de ejemplo.}
 }
 \value{
 Una nueva matriz con la multiplicación realizada.

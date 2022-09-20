@@ -10,6 +10,10 @@ rcpp_rbind(valores, matriz)
 \item{A}{será el vector elegido como ejemplo.}
 
 \item{B}{la primera matriz.}
+
+\item{matriz}{Matriz de ejemplo para la función.}
+
+\item{valores}{Es el vector que se unirá a la matriz anterior.}
 }
 \value{
 Una nueva matriz con los datos del vector y la primera matriz separados por filas.
